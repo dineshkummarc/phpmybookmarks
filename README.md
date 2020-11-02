@@ -11,17 +11,17 @@ Demo
 A demo is available at http://demos.jacobzelek.com/phpmybookmarks
 This is a public user version. Config::$auth is set to "none".
 
-bookmark management
+Bookmark Management
 ![bookmark-management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/bookmark-management.png)
-password management
+Password Management
 ![password-management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/password-management.png)
-tag management
-![Project Management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/tag-management.png)
+Tag Management
+![tag-management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/tag-management.png)
 
 Installation
 ------------
-Place phpmybookmarks source into a folder in your web root.
-Make appropriate changes to config.inc.php.
-Make folder containing phpmybookmarks writeable by executing the following while inside the folder:
-    $ chmod g+w .
-Point your browser to index.php. Database will be automatically created. If you selected $auth = "user" then you will be prompted to enter login details to create a new user.
+- [] Place phpmybookmarks source into a folder in your web root.
+- [] Make appropriate changes to config.inc.php.
+- [] Make folder containing phpmybookmarks writeable by executing the following while inside the folder:
+  $ chmod g+w .
+- [] Point your browser to index.php. Database will be automatically created. If you selected $auth = "user" then you will be prompted to enter login details to create a new user.
