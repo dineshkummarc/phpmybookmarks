@@ -23,5 +23,5 @@ Installation
 - Place phpmybookmarks source into a folder in your web root.
 - Make appropriate changes to config.inc.php.
 - Make folder containing phpmybookmarks writeable by executing the following while inside the folder:
-  $ chmod g+w .
+  ```$ chmod g+w .```
 - Point your browser to index.php. Database will be automatically created. If you selected $auth = "user" then you will be prompted to enter login details to create a new user.
