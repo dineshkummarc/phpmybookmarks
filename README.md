@@ -11,6 +11,13 @@ Demo
 A demo is available at http://demos.jacobzelek.com/phpmybookmarks
 This is a public user version. Config::$auth is set to "none".
 
+bookmark management
+![bookmark-management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/bookmark-management.png)
+password management
+![password-management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/password-management.png)
+tag management
+![Project Management](https://github.com/dineshkummarc/phpmybookmarks/blob/master/screenshot/tag-management.png)
+
 Installation
 ------------
 Place phpmybookmarks source into a folder in your web root.
