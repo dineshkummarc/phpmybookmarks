@@ -1,10 +1,10 @@
 phpmybookmarks
 ==============
-- Bookmark manager using PHP, SQLite, jQuery, and Bootstrap
+Bookmark manager using PHP, SQLite, jQuery, and Bootstrap
 
 Status
 ------
-- This application is under heavy development and should not be put in a production environment.
+This application is under heavy development and should not be put in a production environment.
 
 Demo
 ----
